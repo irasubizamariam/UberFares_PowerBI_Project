@@ -1,30 +1,90 @@
 # 🚕 Uber Fares Data Analysis – Power BI Project
 
-This project explores Uber ride fare data using Python for preprocessing and Power BI for dynamic data visualization. The goal is to uncover patterns in ride frequency, fare amounts, and peak usage times.
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Tools Used](#tools-used)
+- [Project Structure](#project-structure)
+- [Screenshots Preview](#screenshots-preview)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Next Steps](#next-steps)
 
-## 📊 Project Summary
-- **Tools Used**: Python (Pandas), Power BI
-- **Dataset**: Uber Fares (Kaggle)
-- **Objectives**: Find busiest times, detect pricing patterns, improve business decisions
+---
+
+## 📖 Overview
+This project explores Uber fare data to uncover trends in pricing, demand, and time-based patterns. Using Python and Power BI, the dataset was cleaned, enhanced with new features, and visualized through interactive dashboards.
+
+---
+
+## 🎯 Objectives
+- Analyze ride demand based on hour, day, and month
+- Understand fare pricing patterns and outliers
+- Build an interactive dashboard using Power BI
+- Support Uber with data-driven operational insights
+
+---
+
+## 🧰 Tools Used
+- Python (Pandas, Matplotlib)
+- Power BI Desktop
+- GitHub
+- Kaggle (Uber Fares Dataset)
+
+---
 
 ## 📁 Project Structure
-- `Data/` – Cleaned dataset
-- `Images/` – Screenshots and visuals
-- `PowerBI/` – Power BI dashboard
-- `BusinessRequest.md` – Business goals/questions
-- `BusinessOverview.md` – Project background
-- `README.md` – This file
+📁 Data/
+└── enhanced_uber_fares.csv
+📁 Images/
+└── screenshot_step1_head.png
+└── screenshot_fare_distribution.png
+└── screenshot_fare_boxplot.png
+📁 PowerBI/
+└── Uber_Fares_Dashboard.pbix (pending)
+📄 README.md
+📄 BusinessRequest.md
+📄 BusinessOverview.md
+📄 Process.md
+📄 TO-DO.md
+---
+
+## 📷 Screenshots Preview
+
+### ✅ First 5 Rows of Dataset
+![Head](Images/screenshot_step1_head.png)
+
+### ✅ Fare Amount Distribution
+![Histogram](Images/screenshot_fare_distribution.png)
+
+### ✅ Fare Amount Boxplot
+![Boxplot](Images/screenshot_fare_boxplot.png)
+
+---
 
 ## 📌 Key Insights
-- Most rides occur around 5 PM–8 PM
-- Friday and Saturday are peak days
-- Most fares are under $20, with few high-value outliers
+- Most rides occur between 5 PM and 8 PM
+- Friday and Saturday show peak usage
+- Majority of fares fall below $20
+- Outliers (above $100) exist and should be examined
+
+---
 
 ## 🧠 Recommendations
-- Add more drivers during peak hours
-- Use location data to plan surge pricing zones
+- Deploy more drivers during high-demand hours
+- Introduce dynamic surge pricing by day and time
+- Monitor fare outliers for fraud or VIP services
+
+---
+
+## ⏭️ Next Steps
+- [ ] Upload Power BI dashboard file (`.pbix`)
+- [ ] Add PowerPoint summary (optional)
+- [ ] Include geolocation mapping in Power BI (optional)
 
 ---
 
 📬 **Author**: Irasubiza Mariam  
-🎓 **University**: Adventist University of Central Africa
+🎓 **University**: Adventist University of Central Africa  
+🗓️ **Date**: July 2025  
+📧 **Instructor Contact**: eric.maniraguha@auca.ac.rw  
