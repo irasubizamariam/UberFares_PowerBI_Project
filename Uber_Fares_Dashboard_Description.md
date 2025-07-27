@@ -11,13 +11,3 @@ This file is the Power BI project used to visualize Uber fare trends. It include
    * Histogram of fare distribution
    * Slicers for filtering by day/month
 - Interactivity: Filters and drill-downs applied to allow deeper insights
-## Power BI Dashboard (Step 5)
-
-Since I didn’t have access to Power BI Desktop, I prepared a mock dashboard based on what I would create.  
-This includes:
-- Fare distribution (Histogram + Boxplot)
-- Ride patterns by hour and weekday
-- Interactive slicers
-- Professional design
-
-![Dashboard Preview](images/A_Power_BI_dashboard_displays_trends_in_Uber_fares.png)
