@@ -83,8 +83,4 @@ This project explores Uber fare data to uncover trends in pricing, demand, and t
 - [ ] Include geolocation mapping in Power BI (optional)
 
 ---
-
-📬 **Author**: Irasubiza Mariam  
-🎓 **University**: Adventist University of Central Africa  
-🗓️ **Date**: July 2025  
-📧 **Instructor Contact**: eric.maniraguha@auca.ac.rw  
+🔗 [Step 5: View Dashboard Overview](Dashboard_Overview.md)
