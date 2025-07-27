@@ -92,7 +92,10 @@ This project explores Uber fare data to uncover trends in pricing, demand, and t
 - [ ] Include geolocation mapping in Power BI (optional)
 
 ---
-🔗 [Step 5: View Dashboard Overview](Dashboard_Overview.md)
+📂 Cleaned Dataset
 
-📄 [PBIX Dashboard Description (PDF)](PowerBI/Uber_Fares_Dashboard_pbix_Description_WITH_LINK.pdf)
-📥 [Download PBIX (Google Drive)](https://drive.google.com/file/d/1df0aOG7HO7kNrDoYEsnBjGl8NfVxvvT2/view?usp=drivesdk)
+The dataset used for Power BI was cleaned and prepared using Python.  
+You can download it below:
+
+
+🔗https://drive.google.com/file/d/1K_ZZScC8A6dv5messO5lc7XI_bxc_guW/view?usp=drivesdk
