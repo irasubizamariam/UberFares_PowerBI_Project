@@ -12,4 +12,5 @@ This dashboard includes:
 
 Below is the preview:
 
-![Uber Fares Dashboard](images/uber_fares_dashboard.png)
+<img width="955" height="482" alt="Screenshot 2025-07-27 121753" src="https://github.com/user-attachments/assets/e2195288-f99f-4a77-85a5-01efa83ce0e8" />
+
