@@ -84,3 +84,6 @@ This project explores Uber fare data to uncover trends in pricing, demand, and t
 
 ---
 🔗 [Step 5: View Dashboard Overview](Dashboard_Overview.md)
+
+📄 [PBIX Dashboard Description (PDF)](PowerBI/Uber_Fares_Dashboard_pbix_Description_WITH_LINK.pdf)
+📥 [Download PBIX (Google Drive)](https://drive.google.com/file/d/1df0aOG7HO7kNrDoYEsnBjGl8NfVxvvT2/view?usp=drivesdk)
